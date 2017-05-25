@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/ARU.ac.uk/application/views/lecturer/lecturerHome.php</file>
+            <file>file:/C:/xampp/htdocs/ARU.ac.uk/application/models/lecturer_model.php</file>
+            <file>file:/C:/xampp/htdocs/ARU.ac.uk/application/controllers/studentHome.php</file>
+            <file>file:/C:/xampp/htdocs/ARU.ac.uk/application/controllers/manHome.php</file>
+            <file>file:/C:/xampp/htdocs/ARU.ac.uk/application/views/lecturer/assignmentGrading.php</file>
+            <file>file:/C:/xampp/htdocs/ARU.ac.uk/application/controllers/lecturerHome.php</file>
+            <file>file:/C:/xampp/htdocs/ARU.ac.uk/application/views/management/courseManagement.php</file>
+            <file>file:/C:/xampp/htdocs/ARU.ac.uk/application/models/course_models/course_enrolment_model.php</file>
+            <file>file:/C:/xampp/htdocs/ARU.ac.uk/application/controllers/login.php</file>
+        </group>
+    </open-files>
+</project-private>
